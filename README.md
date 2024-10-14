@@ -15,7 +15,7 @@ In addition to the basic requirements, the project includes additional features 
 
 -Update validation so that no null or default values get recorded in any circumstances 
 
--Safe delete mechanism where none of the record is actually deleted by the status of the entity changes
+-Safe delete mechanism where none of the record is actually deleted but the status of the entity changes
 
 -Auto default value submission upon specific user action.
 
